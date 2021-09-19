@@ -1,0 +1,19 @@
+{
+  "name": "algorithm-hub",
+  "version": "1.0.0",
+  "description": "Collection of useful algorithms  implemented by javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdiTohidloo/algorithm-hub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdiTohidloo/algorithm-hub/issues"
+  },
+  "homepage": "https://github.com/mahdiTohidloo/algorithm-hub#readme"
+}
